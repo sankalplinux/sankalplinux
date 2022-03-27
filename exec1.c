@@ -12,6 +12,9 @@ int main()
 	printf("i executed ls program ");
 	printf("i executed ls program ");
 	printf("i executed ls program ");
+	printf("i executed ls program ");
+	printf("i executed ls program ");
+	printf("i executed ls program ");
 }
 
 
